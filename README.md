@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Pala</h1>
 <h3 align="center">I'm a passionate Flutter developer with a love for creating interactive and delightful mobile applications. I enjoy turning ideas into functional and beautiful user experiences.</h3>
 
-- 🌱 I’m currently learning **I'm currently exploring and diving deep into Flutter**
+- 🌱 **I'm currently exploring and diving deep into Flutter**
 
-- 🚀 What I'm Excited About **I'm enthusiastic about the Flutter community's growth and the endless possibilities it offers.**
+- 🚀 **I'm enthusiastic about the Flutter community's growth and the endless possibilities it offers.**
 
 - 📫 How to reach me **harshpala1@gmail.com**
 
