@@ -15,7 +15,7 @@
 - 🌱 **Currently exploring:** System Design • Advanced Flutter Integrations • Scalable Architectures  
 - 🚀 **Obsessed with:** Clean Code • Great UX • Real-world impact through tech  
 - 💬 **Talk to me about:** Flutter, Firebase, Python, Android, or building health-tech products  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/19DSbrGdNH_oOLD89FCVXMZ2CtEByvYQi/view?usp=drive_link)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1G4sRo5giLggdVKp9v69Ny-6oFrgKSJ5Y/view?usp=sharing)
 
 ---
 
